@@ -1,0 +1,8 @@
+server:
+  port: 80
+wechat:
+  mp:
+    appId: wxc27f0dd5de57ef2d
+    secret: 7bd86a47f2fd59183ae60169191566af
+    token: sunlitkidtoken
+    aesKey: EPiSrXKjTzRJ2Yq4EA6eWncUvHd5ZVcNbjofVglcrZz
